@@ -10,7 +10,6 @@
 		K = C + 273.15
 */
 #include<stdio.h>
-#include<conio.h>
 
 int main()
 {
