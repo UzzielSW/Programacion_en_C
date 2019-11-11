@@ -7,12 +7,12 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-struct Alumno
+typedef struct
 {
 	char nombre[20];
 	int edad;
 	float promedio;
-};
+}Alumno;
 
 int main()
 {

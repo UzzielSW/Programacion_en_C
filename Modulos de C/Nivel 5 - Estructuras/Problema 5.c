@@ -8,20 +8,20 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-struct Promedio
+typedef struct
 {
 	float nota1;
 	float nota2;
 	float nota3;
-};
+}Promedio;
 
-struct Alumno
+typedef struct
 {
 	char nombre[20];
 	char sexo[20];
 	int edad;
 	Promedio prom;
-};
+}Alumno;
 
 int main()
 {

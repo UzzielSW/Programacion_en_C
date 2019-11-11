@@ -6,12 +6,13 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define MAX 20
-struct Empleado
+
+typedef struct
 {
 	char nombre[20];
 	char sexo[20];
 	float salario;	
-};
+}Empleado;
 
 int main()
 {

@@ -11,14 +11,14 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-struct Corredor
+typedef struct 
 {
 	char nombre[20];
 	int edad;
 	char sexo[10];
 	char club[20];
 	char categoria[20];
-};
+}Corredor;
 
 int main()
 {

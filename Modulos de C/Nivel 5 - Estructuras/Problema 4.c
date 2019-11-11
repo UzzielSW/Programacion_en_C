@@ -7,12 +7,12 @@
 #include<stdlib.h>
 #define MAX 20
 
-struct Atleta
+typedef struct
 {
 	char nombre[20];
 	char pais[20];
 	int numero_medallas;
-};
+}Atleta;
 
 int main()
 {
