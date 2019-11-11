@@ -5,12 +5,12 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-struct DatosPersona
+typedef struct
 {
 	char nombre[20];
 	char apellidos[20];
 	char email[30];
-};
+}DatosPersona;
 
 int main()
 {

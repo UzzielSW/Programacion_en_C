@@ -5,10 +5,10 @@
 #include<stdio.h>
 #include<string.h>
 
-struct Familia
+typedef struct 
 {
 	char nombre[50];
-};
+}Familia;
 
 int main()
 {

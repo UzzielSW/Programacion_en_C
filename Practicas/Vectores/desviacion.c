@@ -10,8 +10,8 @@ int main()
 	int cant=0, promedio=0, i, sum=0;
 
 	srand(time(NULL));
-	for(i=0; i<50; i++) numeros[i] = li + rand() % ((ls+1) - li);
-	for(i=0; i<50; i++) sum += numeros[i];
+	for(i=0; i < 50; i++) numeros[i] = li + rand() % ((ls+1) - li);
+	for(i=0; i < 50; i++) sum += numeros[i];
 	
 	promedio = sum / 50;
 

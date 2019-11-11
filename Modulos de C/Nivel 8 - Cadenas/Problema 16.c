@@ -5,12 +5,12 @@
 #include<stdio.h>
 #include<string.h>
 
-struct Datos
+typedef struct
 {
 	char nombre[20];
 	char apellidos[20];
 	char ciudad[20];
-};
+}Datos;
 
 int main()
 {

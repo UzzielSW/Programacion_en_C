@@ -2,17 +2,17 @@
 	13. Crear un archivo de texto (.txt), donde guardar los email de amigos.
 
 	fprintf(puntero,informacion);
-	fwrite(dato a guardar, tamaño, longitud, puntero);
+	fwrite(dato a guardar, tamaï¿½o, longitud, puntero);
 */
 #include<stdio.h>
 #include<stdlib.h>
 
-struct DatosPersona
+typedef struct
 {
 	char nombre[20];
 	char apellidos[20];
 	char email[30];
-};
+}DatosPersona;
 
 int main()
 {

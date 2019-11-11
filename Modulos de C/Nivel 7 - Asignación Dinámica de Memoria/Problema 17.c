@@ -9,12 +9,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-struct Alumno
+typedef struct
 {
 	char nombre[20];
 	char sexo;
 	int edad;	
-};
+}Alumno;
 
 int main()
 {

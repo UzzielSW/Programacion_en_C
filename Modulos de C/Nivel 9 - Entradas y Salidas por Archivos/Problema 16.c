@@ -11,12 +11,14 @@
 
 FILE *fd;
 
-struct datosPersonales
+typedef struct
 {
 	char nombre[20];
 	char apellidos[20];
 	char celular[10];
-}datos;
+}datosPersonales;
+
+datosPersonales datos;
 
 void crear()
 {
