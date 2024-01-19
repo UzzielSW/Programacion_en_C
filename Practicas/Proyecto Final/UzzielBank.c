@@ -1,3 +1,4 @@
+// Esto solo funciona en windows
 #include "stdio.h"
 #include "conio.h"
 #include "stdlib.h"
@@ -18,7 +19,7 @@ struct Bank
 HANDLE screen = GetStdHandle(STD_OUTPUT_HANDLE);  //colores
 void gotoxy (int,int);                           //posicion
 
-int main(){SetConsoleTitle(" ::Bank:: ");
+int main(){SetConsoleTitle(" ::Uzziel Bank:: ");
 	// declaracion de variables y funciones
 	int opc,cant=0;
 	int menu(void);
@@ -95,7 +96,7 @@ int menu(void)
 //	menu
 	gotoxy (35,4);
 	SetConsoleTextAttribute (screen,245);
-	printf("         |   °°°::Jeisson Bank::°°°   |          ");	
+	printf("         |   °°°::Uzziel Bank::°°°   |          ");	
 	gotoxy (45,6);
 	SetConsoleTextAttribute (screen,240);
 	printf("       1.Crear cuenta       ");
@@ -269,7 +270,7 @@ void salida(int cant)
 {	int i;
 	void bank();
 		system("cls");
-		guarda = fopen("jeisson_bank.dat","w");
+		guarda = fopen("uzziel_bank.dat","w");
 		if(guarda == NULL)	printf("\n no se guardo correctamente");
 		else{
 			for ( i = 0; i < cant; ++i){
@@ -287,7 +288,7 @@ void salida(int cant)
 int recuperandoDatos(void)
 {  int cant=0;
 
-	guarda = fopen("jeisson_bank.dat","r");
+	guarda = fopen("uzziel_bank.dat","r");
 	
 	if(guarda == NULL)	return cant;
 	else{

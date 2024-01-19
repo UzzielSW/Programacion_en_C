@@ -1,7 +1,7 @@
 #include <stdio.h> 
 #include <stdlib.h>
 
-int main(int argc, char const *argv[])
+int main()
 {
 	//impresion de tipos de datos principales en C
 	int num = 1;
@@ -18,6 +18,6 @@ int main(int argc, char const *argv[])
 	printf("\n char: %c",letter);
 	printf("\n cadena: %s",cadena);
 	// %x puntero
-	// %e expo
+	// %e exponenciales x10^x
 	return 0;
 }

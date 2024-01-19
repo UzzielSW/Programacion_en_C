@@ -7,7 +7,7 @@ int main()
 	void cambiar(char *);
 
 	printf("\n Digite el texto: ");
-	gets(texto);
+    fgets(texto, sizeof(texto), stdin);
 	
 	printf("\n texto: %s",texto);
 	cambiar(texto);
