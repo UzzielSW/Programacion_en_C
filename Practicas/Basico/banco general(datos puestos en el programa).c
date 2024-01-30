@@ -36,17 +36,9 @@ int main()
 
 	printf("\nBIENVENIDO USUARIO AL BANCO GENERAL DE LA PROVINCIA DE PANAMA\n");
 	printf("-------------------------------------------------------------\n");
-	// En caso para ingresar los datos de la matriz
-	// printf("\n Ingresar datos de las 5 sucursales del Banco General: \n\n");
-	// for (i = 0; i < 4; ++i)
-	// {
-	// 	printf(" ");
-	// 	for (k = 0; k < 5; ++k)
-	// 	{
-	// 		scanf("%i", &matriz[i][k]);
-	// 	}
-	// }
-	// printf("\n");
+
+	// En caso que queramos introducir los valores de la matriz
+	// case0(matriz);
 
 	// imprimiendo datos de sucursales
 	printf("Datos de las 5 sucursales del Banco General: \n\n");
@@ -71,6 +63,21 @@ int main()
 	case2(matriz);
 	case3(matriz);
 	printf("\n Total de las Sucursales: %i\n", totaltsu);
+}
+
+int case0(int matriz[4][5])
+{
+	printf("\n Ingresar datos de las 5 sucursales del Banco General: \n\n");
+	for (i = 0; i < 4; ++i)
+	{
+		printf(" ");
+		for (k = 0; k < 5; ++k)
+		{
+			scanf("%i", &matriz[i][k]);
+		}
+	}
+
+	printf("\n");
 }
 
 int case1(int matriz[4][5])
@@ -108,9 +115,10 @@ void case2(int matriz[4][5])
 			sum += matriz[i][k];
 		}
 		if (mayor < sum)
+		{
+			pos = i;
 			mayor = sum;
-
-		pos = i;
+		}
 	}
 
 	printf("\n La cartera de mayor numero es: %s", carteras[pos]);
