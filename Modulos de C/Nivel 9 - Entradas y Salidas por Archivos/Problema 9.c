@@ -1,5 +1,5 @@
 /*
-	9. Tomar el archivo de texto (.txt) creado en el problema 7, y con la función
+	9. Tomar el archivo de texto (.txt) creado en el problema 7, y con la funcion
 	fgetc() leer todo su contenido.
 
 	fgetc(puntero_archivo);

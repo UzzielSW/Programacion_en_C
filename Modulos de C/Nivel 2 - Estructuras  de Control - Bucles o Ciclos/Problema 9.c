@@ -1,4 +1,4 @@
-//9. Determinar si un Número es Primo o no.
+//9. Determinar si un Numero es Primo o no.
 #include<stdio.h>
 
 int main()

@@ -1,4 +1,4 @@
-// 4. Determinar si un número es par, impar 
+// 4. Determinar si un numero es par, impar 
 #include<stdio.h>
 
 int main()

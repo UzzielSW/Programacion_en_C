@@ -1,4 +1,4 @@
-// 6. Calcule la media aritmética de 3 números cualesquiera (Propuesto)
+// 6. Calcule la media aritmetica de 3 numeros cualesquiera (Propuesto)
 #include<stdio.h>
 
 int main()

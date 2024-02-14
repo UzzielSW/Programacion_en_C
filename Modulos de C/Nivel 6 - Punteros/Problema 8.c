@@ -32,7 +32,7 @@ int vocalA(char *s)
 	int cont = 0;
 	while(*s)	//mientras s no sea nulo: \0
 	{ 
-		if(*s == 'a') cont++
+		if(*s == 'a') cont++;
 		s++;	
 	}
 

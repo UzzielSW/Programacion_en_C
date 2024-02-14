@@ -1,4 +1,4 @@
-//	5. Hacer un Programa que calcule áreas de trapecios
+//	5. Hacer un Programa que calcule areas de trapecios
 #include<stdio.h>
 
 int main()

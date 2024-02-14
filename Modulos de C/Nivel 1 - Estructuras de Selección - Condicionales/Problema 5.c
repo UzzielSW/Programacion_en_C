@@ -1,4 +1,4 @@
-// 5. Calcular el mayor de dos números leídos del teclado y visualizarlo en pantalla.
+// 5. Calcular el mayor de dos numeros leidos del teclado y visualizarlo en pantalla.
 #include<stdio.h>
 
 int main()

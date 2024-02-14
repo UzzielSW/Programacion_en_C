@@ -1,5 +1,5 @@
 /*
-	1. Utilizar la función fopen(), para determinar si existe un archivo de texto (.txt) o no.
+	1. Utilizar la funcion fopen(), para determinar si existe un archivo de texto (.txt) o no.
 
  	fopen(nombre de archivo , modo);
 

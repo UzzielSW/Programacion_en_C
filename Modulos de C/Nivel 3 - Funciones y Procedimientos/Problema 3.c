@@ -1,6 +1,6 @@
 /*
-	3. Hace un programa que muestre un menú con las opciones sumar, restar, multiplicar y 
-	dividir, el programa solicitará una opción y realizará la tarea elegida, se debe usar un procedimientos 
+	3. Hace un programa que muestre un menu con las opciones sumar, restar, multiplicar y 
+	dividir, el programa solicitara una opcion y realizara la tarea elegida, se debe usar un procedimientos 
 */
 #include<stdio.h>
 
@@ -14,9 +14,9 @@ int main()
 void menu()
 {
 	int opc,resp=0;
-	int sumar();
-	int restar();
-	int multiplicar();
+	void sumar();
+	void restar();
+	void multiplicar();
 	void dividir();
 	
 	do{	
@@ -79,5 +79,5 @@ void dividir()
 	if(n2 != 0)
 		printf("La division es: %d.\n",n1/n2);
 	else
-		puts("exception not div by zero")	
+		puts("exception not div by zero");	
 }

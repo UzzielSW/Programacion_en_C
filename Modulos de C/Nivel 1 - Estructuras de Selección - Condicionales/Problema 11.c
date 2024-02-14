@@ -1,5 +1,5 @@
 /*
-	11. Dada una nota de un examen mediante un código escribir el literal que le corresponde a la nota.
+	11. Dada una nota de un examen mediante un codigo escribir el literal que le corresponde a la nota.
 
 	A - Excelente
 	B - Notable

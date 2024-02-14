@@ -1,4 +1,4 @@
-//4. Múltiplos de 5 desde 1 hasta n (Propuesto)
+//4. Multiplos de 5 desde 1 hasta n (Propuesto)
 #include<stdio.h>
 
 int main()

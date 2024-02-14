@@ -8,8 +8,7 @@
 int main()
 {
     char nombre[10][20];
-    char aux[20];//tiene que ser de igual o mayor tamaño que la segunda componente
-    //de nombre porque aquí copiaremos esa cadena.
+    char aux[20];//tiene que ser de igual o mayor size que la segunda componente de nombre porque aqui copiaremos esa cadena.
     int i,j,k;
     int l=0;
     puts("Para terminar escriba (*)");

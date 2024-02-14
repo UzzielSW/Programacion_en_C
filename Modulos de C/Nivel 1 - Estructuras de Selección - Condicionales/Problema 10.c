@@ -1,5 +1,5 @@
 /*
-	10.Una distribuidora de motocicletas tiene una promoción de fin de año que consiste en lo siguiente. Las motos marca Honda tienen un descuento del 5%, 
+	10.Una distribuidora de motocicletas tiene una promocion de fin de year que consiste en lo siguiente. Las motos marca Honda tienen un descuento del 5%, 
 	las marcas Yamaha del 8% y las Suzuki del 10%, las otras marcas 2%
 */
 #include<stdio.h>

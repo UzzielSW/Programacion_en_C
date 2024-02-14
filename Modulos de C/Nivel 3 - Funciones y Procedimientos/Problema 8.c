@@ -1,5 +1,5 @@
-/*	8. Hacer un programa que muestre 3 números ordenados desendentemente, 
-utilizar un procedimiento para cada operación.
+/*	8. Hacer un programa que muestre 3 numeros ordenados desendentemente, 
+utilizar un procedimiento para cada operacion.
 */
 #include<stdio.h>
 void descendente(int a,int b, int c);

@@ -4,6 +4,7 @@ Todos los programas vistos en el curso, tanto los practicos hechos en el curso c
 Estan tanto los que salen en los videos actuales (hasta video 39) como tambien los demas que estaban antes.
 
 ## Estructura del Curso del lenguaje C
+
 1. Introducción
 2. Variables, Comentarios
 3. Entrada y Salida de datos
@@ -17,9 +18,11 @@ Estan tanto los que salen en los videos actuales (hasta video 39) como tambien l
 11. Asignación Dinámica de Memoria
 12. Manejo de Cadenas
 13. Manejo de Archivos
-
+14. Listas Enlazadas, Pilas y Colas
+15. Arboles
 
 ## Palabras clave reservadas de C
+
 | <!-- --> | <!-- --> | <!-- --> | <!-- --> |
 | :------: | :------: | :------: | :------: |
 |   auto   |   else   |   long   |  switch  |
@@ -29,18 +32,18 @@ Estan tanto los que salen en los videos actuales (hasta video 39) como tambien l
 |  const   |   for    |  signed  |   void   |
 | continue |   goto   |  sizeof  | volatile |
 | default  |    if    |  static  |  while   |
-|    do    |   int    |  struct  | _Packed  |
+|    do    |   int    |  struct  | \_Packed |
 |  double  |          |          |          |
 
+## Librerias
 
-## Librerias 
 ```c++
 #include <stdio.h> //libreria estandar de c
 #include <iostream> //libreria estandar de c++
 #include <stdlib.h> //trabajndo con funciones del sistema
 #include <fstream> //manejo de archivos
 #include <math.h> //funciones matematicas
-#include <string> //manejo de cadenas 
+#include <string> //manejo de cadenas
 #include <ctype.h> //manejo de caracteres
 #include <vector> //coleccion STL
 #include <list> //coleccion STL
@@ -53,18 +56,17 @@ Estan tanto los que salen en los videos actuales (hasta video 39) como tambien l
 #include <stddef> //tipo size_t
 ```
 
-
 ## Prioridad de los Operadores
+
 1. Paréntesis ()
 2. Potencia
-3. mul * , div / , mod % , not ! 
-4. suma + , resta - , and & 
+3. mul \* , div / , mod % , not !
+4. suma + , resta - , and &
 5. '> , < , ==, >=, <=, !=, or ||
-
 
 ## Correcciones
 
 1. Para todos los programas que manejen cadenas y se este usando la funcion gets() para la lectura, ahora se debe usar la siguiente funcion con el siguiente formato:
-`fgets(cadena, sizeof(cadena), stdin);`
+   `fgets(cadena, sizeof(cadena), stdin);`
 
 2. Tambien tener en cuenta que varias funciones puede que solo funcionen en Windows o esten actualizadas por otras. En version de Dev-C++ deberia funcionar. Mientras que para compiladores mas actuales puede que den error. Sin embargo la logica es la misma solo es cambiar la sintaxis.

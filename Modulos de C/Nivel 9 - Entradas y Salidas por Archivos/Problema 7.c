@@ -1,5 +1,5 @@
 /*
-	7. Utilizar la función fputc() para introducir caracteres en un archivo de 
+	7. Utilizar la funcion fputc() para introducir caracteres en un archivo de 
 	texto (.txt).
 
    fputc(c, puntero_archivo);

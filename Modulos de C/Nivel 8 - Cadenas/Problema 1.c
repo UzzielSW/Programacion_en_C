@@ -3,13 +3,13 @@
 
 
  	getchar():
-		La función getchar() se utiliza para leer carácter a carácter. La llamada a getchar()
-		devuelve el carácter siguiente del flujo de entrada stdin. En caso de error, 
+		La funcion getchar() se utiliza para leer caracter a caracter. La llamada a getchar()
+		devuelve el caracter siguiente del flujo de entrada stdin. En caso de error, 
 		o de encontrar el fin de archivo, devuelve EOF (macro definida en stdio.h).	
  
    	putchar():
-		La función putchar() se utiliza para escribir en la salida (stdout) carácter a carácter.
-		El carácter que se escribe es el transmitido como argumento.
+		La funcion putchar() se utiliza para escribir en la salida (stdout) caracter a caracter.
+		El caracter que se escribe es el transmitido como argumento.
 */
 #include<stdio.h>
 

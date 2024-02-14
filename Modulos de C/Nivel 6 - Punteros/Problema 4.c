@@ -1,6 +1,6 @@
 /*
-	4. Determinar si un numero es primo o no; con puteros y además indicar en que 
-	posicion de memoria se guardo el número.
+	4. Determinar si un numero es primo o no; con puteros y ademas indicar en que 
+	posicion de memoria se guardo el numero.
 */ 
 #include<stdio.h>
 

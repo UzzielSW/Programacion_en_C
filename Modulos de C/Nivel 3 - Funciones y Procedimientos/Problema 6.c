@@ -1,6 +1,6 @@
 /*
-	6. Hacer un programa que muestre una tabla de multiplicar hasta el 20 de un número 
-	cualquiera por pantalla, el número se pedirá en el programa principal. Usar procedimiento 
+	6. Hacer un programa que muestre una tabla de multiplicar hasta el 20 de un numero 
+	cualquiera por pantalla, el numero se pedira en el programa principal. Usar procedimiento 
 */
 
 #include<stdio.h>

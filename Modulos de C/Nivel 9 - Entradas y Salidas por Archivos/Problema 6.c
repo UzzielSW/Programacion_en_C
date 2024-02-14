@@ -1,6 +1,6 @@
 /*
 	6. Hacer un programa en C, que cree 2 archivos de texto (.txt), y luego utilizar
-	la función fclose() para cerrarlos.
+	la funcion fclose() para cerrarlos.
 */
 #include<stdio.h>
 #include<stdlib.h>

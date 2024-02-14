@@ -1,4 +1,4 @@
-//|2. Convertir Grados Celsius a Grados Fahrenheit (Propuesto)
+//2. Convertir Grados Celsius a Grados Fahrenheit (Propuesto)
 
 #include<stdio.h>
 

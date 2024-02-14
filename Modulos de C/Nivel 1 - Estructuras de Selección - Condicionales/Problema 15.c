@@ -1,5 +1,5 @@
 /*
-	15. Hacer un programa que simule un cajero automático con un saldo inicial de 1000 Dolares.
+	15. Hacer un programa que simule un cajero autometico con un saldo inicial de 1000 Dolares.
 */ 
 #include<stdio.h>
 

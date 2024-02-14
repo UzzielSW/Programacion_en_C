@@ -1,4 +1,4 @@
-//7. Pedir su nombre al usuario y devolver el número de vocales que hay.
+//7. Pedir su nombre al usuario y devolver el numero de vocales que hay.
 #include<stdio.h>
 
 int main()

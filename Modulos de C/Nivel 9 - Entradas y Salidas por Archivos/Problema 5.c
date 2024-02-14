@@ -13,7 +13,7 @@ int main()
 	else
 		puts("Se pudo modificar los archivos");
 	
-	//Cerramos los archivos con la función fclose()
+	//Cerramos los archivos con la funcion fclose()
 	fclose(fd1);
 	fclose(fd2);
 	

@@ -1,5 +1,5 @@
 /*
-	12. Seleccionar un tipo de vehículo e indicar el peaje a pagar según un valor numérico
+	12. Seleccionar un tipo de vehiculo e indicar el peaje a pagar segun un valor numerico
 		1 - turismo, peaje = $500.
 		2 - autobus, peaje = $3000.
 		3 - motocicleta, peaje = $300.

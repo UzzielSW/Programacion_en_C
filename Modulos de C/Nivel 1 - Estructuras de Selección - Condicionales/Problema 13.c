@@ -1,4 +1,4 @@
-//13. Cambiar un número entero con el mismo valor pero en romanos.
+//13. Cambiar un numero entero con el mismo valor pero en romanos.
 #include<stdio.h>
 
 int main()

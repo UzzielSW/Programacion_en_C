@@ -1,5 +1,5 @@
 /*
-	14. Mostrar los meses del año, pidiendole al usuario un numero entre (1-12) y mostrar el mes al que corresponde
+	14. Mostrar los meses del year, pidiendole al usuario un numero entre (1-12) y mostrar el mes al que corresponde
 */
 #include<stdio.h>
 

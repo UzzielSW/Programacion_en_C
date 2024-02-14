@@ -1,6 +1,6 @@
 /*
-	21. Convertir una cadena (por ejemplo: "1234"), a un número entero.
-	Con la función atoi().
+	21. Convertir una cadena (por ejemplo: "1234"), a un numero entero.
+	Con la funcion atoi().
 */
 #include<stdio.h>
 #include<stdlib.h>

@@ -1,6 +1,6 @@
 /*
-	23. Utilizar la función atof() para pasar una cadena (por ejemplo: "123.45"), a 
-	número flotante.
+	23. Utilizar la funcion atof() para pasar una cadena (por ejemplo: "123.45"), a 
+	numero flotante.
 */
 #include<stdio.h>
 #include<stdlib.h>

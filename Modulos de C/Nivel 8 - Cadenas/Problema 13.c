@@ -1,4 +1,4 @@
-//13. Invertir una cadena con la función strrev().
+//13. Invertir una cadena con la funcion strrev().
 #include<stdio.h>
 #include<string.h>
 

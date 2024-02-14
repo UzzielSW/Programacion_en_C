@@ -1,6 +1,6 @@
 /*
-	6. Rellenar un array de 10 números, posteriormente utilizando punteros indicar cuales
-	son números pares y su posicion en memoria.
+	6. Rellenar un array de 10 numeros, posteriormente utilizando punteros indicar cuales
+	son numeros pares y su posicion en memoria.
 */
 #include<stdio.h>
 
@@ -19,7 +19,7 @@ int main()
 	
 	for(i=0; i < 10; i++, p_a++)
 	{ 
-		if((*p_a % 2) == 0)//Comprobar números pares
+		if((*p_a % 2) == 0)//Comprobar numeros pares
 		{
 			printf("\n\nNumero par: %d",*p_a);
 			printf("\nPosicion: %X",p_a);

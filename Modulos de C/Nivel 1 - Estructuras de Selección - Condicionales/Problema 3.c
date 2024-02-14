@@ -1,5 +1,5 @@
 /*
-	3 Visualizar la tarifa de la luz según el gasto de corriente eléctrica. 
+	3 Visualizar la tarifa de la luz segun el gasto de corriente electrica. 
 	Para un gasto menor de 1.000Kw x h
 	la tarifa es 1.2, entre 1.OOO y 1.850Kw x h es 1.0 y mayor de 1.85OKw x h 0.9.
 */

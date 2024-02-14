@@ -1,5 +1,5 @@
 /*
-	6. Ingrese un número y calcule e imprima su raíz cuadrada. Si el numero es negativo imprima el número y un mensaje que diga “tiene raíz imaginaria” 
+	6. Ingrese un numero y calcule e imprima su raiz cuadrada. Si el numero es negativo imprima el numero y un mensaje que diga "tiene raiz imaginaria" 
 */
 #include<stdio.h>
 #include<math.h>

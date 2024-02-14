@@ -1,6 +1,6 @@
 /*
 	5. Hacer un programa que pida por pantalla una temperatura en grados Celsius, 
-	muestre un menú para convertirlos a Fahrenheit o Kelvin y muestre el equivalente por 
+	muestre un menu para convertirlos a Fahrenheit o Kelvin y muestre el equivalente por 
 	pantalla, utilizar funciones. 
 
 	Celsius a Fahrenheit:

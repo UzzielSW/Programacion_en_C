@@ -1,6 +1,6 @@
 /*
 	1. Hacer una variable de tipo int, otra de tipo float y por ultimo una de tipo char,
-	almacenar datos en cada una de las variables, posteriormente indicar la posición de 
+	almacenar datos en cada una de las variables, posteriormente indicar la posicion de 
 	memoria donde se encuentran guardados los datos de cada variable. Con punteros.
 */
 #include<stdio.h>

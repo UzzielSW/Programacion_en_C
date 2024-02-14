@@ -1,4 +1,4 @@
-//	7. Utilizar la funcion strcat() para añadir un texto a un string.
+//	7. Utilizar la funcion strcat() para agregar un texto a un string.
 #include<stdio.h>
 #include<string.h>
 

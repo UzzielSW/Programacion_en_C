@@ -1,7 +1,7 @@
 /*
-	10. Hacer un puntero array de tipo float, pedir el usuario el número de elementos,
-	luego reservar memoria dinámica con calloc, luego llenar el array, imprimir todos
-	los elementos, y por ultimo liberar el espacio de memoria dinámica utilizado.
+	10. Hacer un puntero array de tipo float, pedir el usuario el numero de elementos,
+	luego reservar memoria dinamica con calloc, luego llenar el array, imprimir todos
+	los elementos, y por ultimo liberar el espacio de memoria dinamica utilizado.
 */
 #include<stdio.h>
 #include<stdlib.h>

@@ -1,6 +1,6 @@
 /*
 	24. Pedir dos cadenas(con numero flotante) al usuario, posteriormente multiplicar
-	dichos números y mostrar su resultado.
+	dichos numeros y mostrar su resultado.
 */
 #include<stdio.h>
 #include<stdlib.h>

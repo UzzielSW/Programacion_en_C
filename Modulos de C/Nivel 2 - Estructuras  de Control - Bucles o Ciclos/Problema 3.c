@@ -1,4 +1,4 @@
-// 3. Múltiplos de 3 desde 1 hasta n
+// 3. Multiplos de 3 desde 1 hasta n
 #include<stdio.h>
 
 int main()

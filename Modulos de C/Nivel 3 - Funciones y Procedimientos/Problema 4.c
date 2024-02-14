@@ -1,6 +1,6 @@
 /*
-	4. Hacer un programa que pida por pantalla un número del 1 al 10 y mediante un 
-	procedimiento muestre por pantalla el número escrito en letras.
+	4. Hacer un programa que pida por pantalla un numero del 1 al 10 y mediante un 
+	procedimiento muestre por pantalla el numero escrito en letras.
 */
 
 #include<stdio.h>

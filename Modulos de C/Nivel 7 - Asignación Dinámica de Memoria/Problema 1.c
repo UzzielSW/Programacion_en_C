@@ -10,7 +10,7 @@ int main()
 	
 	strcpy(nombre,"Alejandro");
 	
-	longitud = strlen(nombre); //determina el tamaño del nombre
+	longitud = strlen(nombre); //determina la longitud del nombre
 	
 	p_nombre = malloc((longitud + 1) * sizeof(char));
 	

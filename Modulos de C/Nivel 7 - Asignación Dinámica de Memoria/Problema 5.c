@@ -1,5 +1,5 @@
 /*
-	5. Reservar espacio en memoria dinámica para un nombre, y luego liberar la memoria
+	5. Reservar espacio en memoria dinamica para un nombre, y luego liberar la memoria
 	utilizada con free().
 */
 #include<stdio.h>

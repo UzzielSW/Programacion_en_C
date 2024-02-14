@@ -1,5 +1,5 @@
-/*2. Digite un número, si el numero supera a 10, multiplique los 10 primeros números, 
-sino, súmelos (Propuesto)*/
+/*2. Digite un numero, si el numero supera a 10, multiplique los 10 primeros numeros, 
+sino, sumelos (Propuesto)*/
 
 #include<stdio.h>
 

@@ -1,5 +1,5 @@
-/*	7. Hace un programa que muestre 3 números ordenados de ascendentemente, 
-utilizar un procedimiento para cada operación.
+/*	7. Hace un programa que muestre 3 numeros ordenados de ascendentemente, 
+utilizar un procedimiento para cada operacion.
 */
 #include<stdio.h>
 

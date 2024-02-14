@@ -2,9 +2,9 @@
 	1. Hacer una estructura llamada corredor, en la cual se tendran los
 	siguientes miembros: Nombre, edad, sexo, club, pedir datos al usuario 
 	para un corredor, y asignarle una categoria de competicion:
-	- Juvenil <= 18 años
-	- Señor <= 40 años
-	- Veterano > 40 años
+	- Juvenil <= 18 year
+	- Senior <= 40 year
+	- Veterano > 40 year
 	posteriormente imprimir todos los datos del corredor, incluida su
 	categoria de competicion
 */
@@ -41,7 +41,7 @@ int main()
 	if((corredor1.edad > 5) && (corredor1.edad <= 18))
 		strcpy(corredor1.categoria,"Juvenil"); //categoria = Juvenil
 	else if(corredor1.edad <= 40)
-		strcpy(corredor1.categoria,"Senior"); //categoria = Señor
+		strcpy(corredor1.categoria,"Senior"); //categoria = Seï¿½or
 	else if (corredor1.edad <= 90)
 		strcpy(corredor1.categoria,"Veterano");
 	else

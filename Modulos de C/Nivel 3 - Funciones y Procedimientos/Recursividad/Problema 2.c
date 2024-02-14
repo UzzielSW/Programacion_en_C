@@ -1,4 +1,4 @@
-/*	2. Consideremos una función que recibe un numero
+/*	2. Consideremos una funcion que recibe un numero
 	n e imprime los numeros del n al 1. Con recursividad
 */
 #include<stdio.h>

@@ -1,6 +1,6 @@
 /*
 	3. Reservar memoria con malloc para un array de tipo double para 1000 numeros, y
-	comprobar si el puntero es válido (si el puntero devuelve NULL, significa 
+	comprobar si el puntero es valido (si el puntero devuelve NULL, significa 
 	que no hay suficiente memoria).
 */
 #include<stdio.h>
