@@ -70,3 +70,6 @@ Estan tanto los que salen en los videos actuales (hasta video 39) como tambien l
    `fgets(cadena, sizeof(cadena), stdin);`
 
 2. Tambien tener en cuenta que varias funciones puede que solo funcionen en Windows o esten actualizadas por otras. En version de Dev-C++ deberia funcionar. Mientras que para compiladores mas actuales puede que den error. Sin embargo la logica es la misma solo es cambiar la sintaxis.
+
+## Referencias y Ayuda
+[cplusplus](https://cplusplus.com/reference/algorithm/)
